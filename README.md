@@ -1,6 +1,6 @@
 DCNet
 
-Best weights Link: https://pan.baidu.com/s/1dZbYYppVqzfhsQ8X1nIJPQ 
+Best weights Link: https://pan.baidu.com/s/1Oc-1jiNZFP86ajNTlTTlsw 
 Extraction code: DCNE
 
 Network prediction The test code for the test set and validation set is evaluate_irseg.py (graph test)
